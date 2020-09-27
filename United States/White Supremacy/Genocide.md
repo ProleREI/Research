@@ -1,0 +1,13 @@
+# Genocide
+- [Unwanted Sterilization and Eugenics Programs in the United States](https://www.pbs.org/independentlens/blog/unwanted-sterilization-and-eugenics-programs-in-the-united-states/)
+- [California was sterilizing its female prisoners as late as 2010](https://www.theguardian.com/commentisfree/2013/nov/08/california-female-prisoner-sterilization)
+- [An ICE Nurse Revealed That A Georgia Detention Center Is Performing Mass Hysterectomies](https://www.yahoo.com/lifestyle/ice-nurse-revealed-georgia-detention-215816246.html)
+- [Sterilization of Women of Color: Does “Unforced” Mean “Freely Chosen”?](https://msmagazine.com/2011/07/21/sterilization-of-women-of-color-does-unforced-mean-freely-chosen/)
+- [Not Just Tulsa: Race Massacres That Devastated Black Communities In Rosewood, Atlanta, and Other American Cities](https://www.bet.com/news/national/2019/12/17/not-just-tulsa--five-other-race-massacres-that-devastated-black.html)
+- [‘It was a modern-day lynching’: Violent deaths reflect a brutal American legacy](https://www.nationalgeographic.com/history/2020/06/history-of-lynching-violent-deaths-reflect-brutal-american-legacy/)
+- [Genocide of indigenous peoples](https://en.wikipedia.org/wiki/Genocide_of_indigenous_peoples#Colonization_and_genocide_in_the_Americas)
+- [Population History of The Indigenous Peoples of the Americas](https://en.wikipedia.org/wiki/Population_history_of_indigenous_peoples_of_the_Americas)
+- [Tulsa Race Massacre](https://en.wikipedia.org/wiki/Tulsa_race_massacre) 
+- [Rosewood Race Massacre](https://en.wikipedia.org/wiki/Rosewood_massacre)
+- [Christopher Columbus Controversy](https://www.history.com/news/columbus-day-controversy)
+- [Taino Peoples](https://en.wikipedia.org/wiki/Ta%C3%ADno)

@@ -1,0 +1,13 @@
+# Economics
+- [America Is Now a ‘Second Tier’ Country](https://www.bloomberg.com/news/articles/2017-06-21/america-is-now-a-second-tier-country)
+- [U.N. Investigator On Extreme Poverty Issues A Grim Report — On The U.S.](https://www.npr.org/sections/goatsandsoda/2017/12/21/572043850/u-n-investigator-on-extreme-poverty-issues-a-grim-report-on-the-u-s)
+- [Deconstructing Branko Milanovic's “Elephant Chart”: Does It Show What Everyone Thinks?](https://piie.com/blogs/realtime-economic-issues-watch/deconstructing-branko-milanovics-elephant-chart-does-it-show) 
+- [A Unified Welfare Analysis of Government Policies](https://academic.oup.com/qje/article/doi/10.1093/qje/qjaa006/5781614)
+- [The Union Effect in California #1: Wages, Benefits, and Use of Public Safety Net Programs](http://laborcenter.berkeley.edu/union-effect-in-california-1/)
+- [Social Programs Can Sometimes Turn a Profit for Taxpayers](https://www.nytimes.com/2020/07/10/business/social-programs-profit.html)
+- [A third of cash is held by 5 U.S. companies](http://www.usatoday.com/story/money/markets/2016/05/20/third-cash-owned-5-us-companies/84640704/ )
+- [Corporate Cash Hoarding Is Killing the Middle Class](http://www.alternet.org/economy/corporate-nest-eggs-are-actually-middle-classs-funeral-pyre)
+- [GAO: Big Companies Paid A 12.6% Effective Federal Income Tax Rate](http://www.forbes.com/sites/janetnovack/2013/07/01/gao-big-companies-paid-a-12-6-federal-income-tax-rate/#6d43d6455b1a) 
+- [The Corporate Income Tax System: Overview and Options for Reform](https://fas.org/sgp/crs/misc/R42726.pdf) 
+- [THE DEVELOPMENT AND HISTORY OF THE POVERTY THRESHOLDS](https://www.ssa.gov/history/fisheronpoverty.html)
+- [Can banks individually create money out of nothing? — The theories and the empirical evidence](https://www.sciencedirect.com/science/article/pii/S1057521914001070)

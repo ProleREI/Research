@@ -1,0 +1,15 @@
+# Climate Change
+- [Climate Change Will Affect Tropics First, Long Before Arctic Sees Shift](https://www.ibtimes.com/climate-change-will-affect-tropics-first-long-arctic-sees-shift-1419618)
+- [DC Climate Will Shift in 2047](https://www.washingtonpost.com/national/health-science/dc-climate-will-shift-in-2047-researchers-say-tropics-will-feel-unprecedented-change-first/2013/10/09/f581b25e-3062-11e3-bbed-a8a60c601153_story.html)
+- [Millions projected to be at risk from sea-level rise in the continental United States](http://www.nature.com/nclimate/journal/v6/n7/full/nclimate2961.html)
+- [Climate Change 2013: The Physical Science Basis](https://www.ipcc.ch/report/ar5/wg1/)
+- [Greenland Is Melting](http://www.newyorker.com/magazine/2016/10/24/greenland-is-melting)
+- [Daily Mean Temperatures in the Arctic 1958 - 2020](http://ocean.dmi.dk/arctic/meant80n.uk.php)
+- [A large increase in U.S. methane emissions over the past decade inferred from satellite data and surface observations](http://onlinelibrary.wiley.com/doi/10.1002/2016GL067987/abstract)
+- [Large contribution from anthropogenic warming to an emerging North American megadrought](https://science.sciencemag.org/content/368/6488/314) 
+- [How Climate Change Denial Threatens National Security](https://www.wired.com/story/how-climate-change-denial-threatens-national-security/)
+- [Climate Change Will Force a New American Migration](https://www.propublica.org/article/climate-change-will-force-a-new-american-migration)
+- [Triple crisis in the Anthropocene Ocean](https://mronline.org/2020/09/09/triple-crisis-in-the-anthropocene-ocean)
+- [How Understanding the History of the Earth's Climate Can Offer Hope Amid Crisis](https://time.com/5680432/climate-change-history-carbon/)
+- [Scientists Have Uncovered a Disturbing Climate Change Precedent](https://www.theatlantic.com/science/archive/2018/08/earths-scorching-hot-history/566762/)
+

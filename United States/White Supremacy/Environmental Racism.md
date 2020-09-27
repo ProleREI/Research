@@ -1,0 +1,13 @@
+# Environmental Racism
+- [Environmental Racism](https://en.wikipedia.org/wiki/Environmental_racism)
+- [Racism as a Determinant of Health: A Systematic Review and Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580597/pdf/pone.0138511.pdf)
+- [Trump's EPA Concludes Environmental Racism Is Real](https://www.theatlantic.com/politics/archive/2018/02/the-trump-administration-finds-that-environmental-racism-is-real/554315/)
+- ['They chose us because we were rural and poor': when environmental racism and climate change collide](https://www.theguardian.com/environment/2019/mar/08/climate-changed-racism-environment-south)
+- [Fracking waste more likely to be located in poor communities and neighborhoods of color](https://grist.org/climate-energy/fracking-waste-more-likely-to-be-located-in-poor-communities-and-neighborhoods-of-color/)
+- [Hurricanes disproportionately harm communities of color. TV news ignores that fact.](https://grist.org/justice/hurricanes-disproportionately-harm-communities-of-color-tv-news-ignores-that-fact/) 
+- [Race/Ethnicity, Socioeconomic Status, Residential Segregation, and Spatial Variation in Noise Exposure in the Contiguous United States](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5744659/) 
+- [Challenges and Opportunities for Tribal Waters: Addressing Disparities in Safe Public Drinking Water on the Crow Reservation in Montana, USA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5923609/)
+- [Environmental justice and drinking water quality: are there socioeconomic disparities in nitrate levels in U.S. drinking water?](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-018-0442-6) 
+- [Why Lead Poisoning in Water Is an Environmental Racism Issue](https://www.teenvogue.com/story/lead-poisoning-water-environmental-racism)
+- [Environmental Justice](https://en.wikipedia.org/wiki/Environmental_justice)
+- [Recent disasters reveal racial discrimination in FEMA aid process](https://www.facingsouth.org/2018/09/recent-disasters-reveal-racial-discrimination-fema-aid-process)
