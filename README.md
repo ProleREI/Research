@@ -1,7 +1,7 @@
-# REI - Research
-Welcome to Research, Education, Intelligence(REI)!
+# ProleREI - Research
+Welcome to the Proletariat Research, Education, Intelligence(ProleREI)!
 
-REI Research is a Centralized, Open-Source Research Knowledge Base available for everyone to use and reference, with no restrictions. 
+ProleREI Research is a Centralized, Open-Source Research Knowledge Base available for everyone to use and reference, with no restrictions. 
 
 For more information, see [LICENSE.md](LICENSE.md)
 

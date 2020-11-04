@@ -28,3 +28,4 @@
 - [Top Frustrations With Tax System: Sense That Corporations, Wealthy Don’t Pay Fair Share](https://www.pewresearch.org/politics/2017/04/14/top-frustrations-with-tax-system-sense-that-corporations-wealthy-dont-pay-fair-share/)
 - [Economic Inequality: It’s Far Worse Than You Think](https://www.scientificamerican.com/article/economic-inequality-it-s-far-worse-than-you-think/)
 - [Soaring wealth during pandemic highlights rising inequality](https://apnews.com/28a44dd1a025d9b9af5a8d4ff8c5a033)
+- [Millionaires and Billionaires Own 79% of All Household Wealth](https://www.peoplespolicyproject.org/2020/09/28/millionaires-and-billionaires-own-79-of-all-household-wealth/)

@@ -12,4 +12,5 @@
 - [Goldman Sachs asks in biotech research report: ‘Is curing patients a sustainable business model?’](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html)
 - [How tech's richest plan to save themselves after the apocalypse](https://www.theguardian.com/technology/2018/jul/23/tech-industry-wealth-futurism-transhumanism-singularity)
 - [World's richest 1% cause double CO2 emissions of poorest 50%, says Oxfam](https://www.theguardian.com/environment/2020/sep/21/worlds-richest-1-cause-double-co2-emissions-of-poorest-50-says-oxfam?CMP=Share_iOSApp_Other)
+- [The Puzzle of Motivation](https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation)
 

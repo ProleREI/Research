@@ -8,4 +8,6 @@
 - [SECRET RULES MAKE IT PRETTY EASY FOR THE FBI TO SPY ON JOURNALISTS](https://theintercept.com/2016/06/30/secret-rules-make-it-pretty-easy-for-the-fbi-to-spy-on-journalists/)
 - [SECRET RULES MAKE IT PRETTY EASY FOR THE FBI TO SPY ON JOURNALISTS, Part 2](https://theintercept.com/2017/01/31/secret-rules-make-it-pretty-easy-for-the-fbi-to-spy-on-journalists-2/)
 - [THE FBI IS USING UNVETTED, RIGHT-WING BLACKLISTS TO QUESTION ACTIVISTS ABOUT THEIR SUPPORT FOR PALESTINE](https://theintercept.com/2018/06/24/students-for-justice-in-palestine-fbi-sjp/)
+- [Point, Click ... Eavesdrop: How the FBI Wiretap Net Operates](https://www.wired.com/2007/08/wiretap/)  
+- [EFF Documents Shed Light on FBI Electronic Surveillance Technology](https://www.eff.org/deeplinks/2007/08/eff-documents-shed-light-fbi-electronic-surveillance-technology)  
 

@@ -1,4 +1,11 @@
-# Media Representation
+# Media
+
+## Propopganda
+- [From Joe Rogan to the Far Right: Inside YouTube's Alt-Media Ecosystem](https://www.vice.com/en/article/59ade5/inside-youtubes-alt-media-ecosystem)  
+- [Joe Rogan’s Galaxy Brain](https://slate.com/culture/2019/03/joe-rogans-podcast-is-an-essential-platform-for-freethinkers-who-hate-the-left.html)  
+- [James Murdoch, son of Fox News owner Rupert Murdoch, says he walked away from family media empire because it legitimizes disinformation and obscures facts](https://www.businessinsider.com/fox-news-james-murdoch-says-fathers-media-empire-obscures-facts-2020-10)  
+
+## Representation
 - [‘Lock them up:’ My double standard in responding to the crack crisis vs. the opioid epidemic](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/10/26/lock-them-up-my-double-standard-in-responding-to-the-crack-crisis-vs-the-opioid-epidemic/)
 - [Media Is Still Misrepresenting Black Families On A Huge Scale](https://www.bustle.com/p/negative-representations-of-black-people-in-the-media-are-hugely-inaccurate-according-to-a-new-report-7615041)
 - [When The Media Treat White Suspects And Killers Better Than Black Victims](https://www.huffpost.com/entry/when-the-media-treats-white-suspects-and-killers-better-than-black-victims_n_59c14adbe4b0f22c4a8cf212)

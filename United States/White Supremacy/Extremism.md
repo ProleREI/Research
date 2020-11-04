@@ -11,5 +11,18 @@
 - [HE MULTIPOLAR SPIN: HOW FASCISTS OPERATIONALIZE LEFT-WING RESENTMENT](https://web.archive.org/web/20180309225139/https://www.splcenter.org/hatewatch/2018/03/09/multipolar-spin-how-fascists-operationalize-left-wing-resentment)
 - [Domestic terror in the age of Trump](https://www.revealnews.org/article/domestic-terror-in-the-age-of-trump/)
 - [Patriot Coalition: Leaked Messages Show Far-Right Group's Plans for Portland Violence](https://www.bellingcat.com/news/2020/09/23/patriot-coalition-far-right-chat-logs-violence/)
+- [COUNTERING VIOLENT EXTREMISM: Actions Needed to Define Strategy and Assess Progress of Federal Efforts](https://www.gao.gov/assets/690/683984.pdf)
+- ["We're ready": White supremacist Proud Boys activated after President Trump tells them to "stand by"](https://news.yahoo.com/were-ready-white-supremacist-proud-231333070.html)
+- [Proud Boys are a dangerous 'white supremacist' group say US agencies](https://news.yahoo.com/proud-boys-dangerous-white-supremacist-083003299.html)
+- [A Pro-Trump Militant Group Has Recruited Thousands of Police, Soldiers, and Veterans](https://amp.theatlantic.com/amp/article/616473/)
+- [The Proud Boys chairman says members of the extremist organization are running for office — and you might not know if you're voting for one](https://www.insider.com/proud-boys-chairman-says-members-run-for-office-election-2020-9)
+- [FBI charges six who it says plotted to kidnap Michigan Gov. Gretchen Whitmer, as seven more who wanted to ignite civil war face state charges](https://www.washingtonpost.com/national-security/michigan-governor-kidnap-plot/2020/10/08/0032e206-0980-11eb-9be6-cf25fb429f1a_story.html)
+- [Revisiting the Economics and Terrorism Nexus: Collective Deprivation, Ideology and Domestic Radicalization in the US (1948–2016)](https://link.springer.com/article/10.1007/s10940-019-09422-z)
+- [The Pandemic Crisis, Economic Recession And The Rise of Extremism](http://nycfpa.org/blog/the-pandemic-crisis-economic-recession-and-the-rise-of-extremism/)
+- [Most Americans have no idea how deeply embedded white-supremacist groups are in the military](https://www.businessinsider.com/most-americans-unaware-of-white-supremacist-groups-military-links-2020-10)
+- [Leaked emails show Washington state Rep. Matt Shea endorsed training children to fight in holy war](https://www.seattletimes.com/seattle-news/washington-state-rep-matt-shea-endorsed-training-children-to-fight-in-holy-war/)
+- [Tracking the Shifting Shape of Far-Right Political Violence](https://www.bloomberg.com/news/articles/2020-10-16/is-far-right-political-violence-getting-worse)
+- [The Escalating Terrorism Problem in the United States](https://www.csis.org/analysis/escalating-terrorism-problem-united-states)
+- [Are Paramilitary Extremists Being Normalized? Look To Idaho For Answers](https://www.npr.org/2020/10/17/924461164/are-paramilitary-extremists-being-normalized-look-to-idaho-for-answers)
 
 

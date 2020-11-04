@@ -13,6 +13,8 @@
 - [Busted(Common Roadside Drug-Test Routinely Produces False Positives)](https://www.propublica.org/article/common-roadside-drug-test-routinely-produces-false-positives)
 - [Prosecutors and police: The inherent conflict in our courts](http://www.msnbc.com/msnbc/prosecutors-police-inherent-conflict-our-courts)
 - [The Cop Who Quit Instead of Helping to Gentrify Atlanta](https://www.motherjones.com/crime-justice/2020/09/the-cop-who-quit-instead-of-helping-to-gentrify-atlanta/)
+- [Judge says she is 'concerned' detective may have lied to get Breonna Taylor search warrant](https://www.courier-journal.com/story/news/local/breonna-taylor/2020/10/01/breonna-taylor-case-judge-concerned-lmpd-cop-lied-get-warrant/5883362002/)
+- [How Police Fund Surveillance Technology is Part of the Problem](https://www.eff.org/deeplinks/2020/09/how-police-fund-surveillance-technology-part-problem)
 
 ## Abuse of Power
 - [Police Union Complains That Public Got to See Them Roughing Up Utah Nurse](https://reason.com/2017/09/27/police-union-complains-that-public-got-t/)
@@ -25,6 +27,7 @@
 ## Accountability
 - [Defund Our Punishment Bureaucracy](https://prospect.org/justice/defund-our-punishment-bureaucracy/)
 - [A Plan to Make Police Data Open Source Started on Reddit](https://www.wired.com/story/police-accountability-data-project-open-source-reddit/)
+- [Meet the activists who created an ever-growing Google Doc of police violence across America](https://www.mic.com/p/meet-the-activists-who-created-ever-growing-google-doc-of-police-violence-across-america-22970905)
 
 ## Civil Asset Forfeiture
 - [Civil forfeiture in the United States](https://en.wikipedia.org/wiki/Civil_forfeiture_in_the_United_States)
@@ -47,6 +50,7 @@
 - [Lawsuit claims Louisiana State Police has ‘antifa’ roster from Neo-Nazi site](https://wgno.com/news/local/lawsuit-claims-louisiana-state-police-has-antifa-roster-from-neo-nazi-site/)
 - [Officers rewarded for use of force with steakhouse gift cards, former Williamson deputies say](https://www.statesman.com/news/20200917/officers-rewarded-for-use-of-force-with-steakhouse-gift-cards-former-williamson-deputies-say)
 - [Which Police Departments Are as Diverse as Their Communities?](https://www.nytimes.com/interactive/2020/09/23/us/bureau-justice-statistics-race.html)
+- [A Pro-Trump Militant Group Has Recruited Thousands of Police, Soldiers, and Veterans](https://amp.theatlantic.com/amp/article/616473/)
 
 ## Funding
 - [As U.S. crime rates dropped, local police spending soared](https://www.politico.com/interactives/2020/police-budget-spending-george-floyd-defund/)
@@ -69,6 +73,7 @@
 - [Judge rejects riot charges for journalist Amy Goodman after oil pipeline protest](https://www.theguardian.com/us-news/2016/oct/17/amy-goodman-north-dakota-oil-access-pipeline-protest-arrest-riot)
 - [Baltimore Police Detective Fatally Shot In Head With Own Gun Died Clutching Radio](https://www.washingtonpost.com/local/public-safety/baltimore-police-detective-fatally-shot-in-head-with-own-gun-died-clutching-radio/2017/11/22/d4180b20-cfd4-11e7-9d3a-bcbe2af58c3a_story.html)
 - [Real Cops Who Stood Up To Corruption In Their Departments (And What Happened To Them)](https://www.ranker.com/list/police-department-whistleblowers/brent-sprecher)
+- [Police Are Cutting Ties With Domestic Violence Programs That Support Black Lives Matter](https://www.huffpost.com/entry/domestic-violence-black-lives-matter-police_n_5f88c8a1c5b66ee9a5ee43d7)
 
 ## Unions
 - [It’s Past Time to Examine How Police Unions Protect Bad Cops](https://www.nationalreview.com/2020/05/george-floyd-death-focus-on-police-unions-protecting-bad-cops/)
@@ -78,29 +83,41 @@
 - [Half of people killed by police suffer from mental disability](https://www.nbcnews.com/news/us-news/half-people-killed-police-suffer-mental-disability-report-n538371)
 - [The Chicago Police Department’s History of Torture](https://www.thenation.com/article/culture/lawrence-ralph-torture-letters-review/)
 - [The disappeared: Chicago police detain Americans at abuse-laden 'black site'](https://www.theguardian.com/us-news/2015/feb/24/chicago-police-detain-americans-black-site)
-- [Police often provoke protest violence, UC researchers find](https://www.sfgate.com/bayarea/article/Police-often-provoke-protest-violence-UC-5704918.php) 
 - [Shot By Cops and Forgotten](https://news.vice.com/en_us/article/xwvv3a/shot-by-cops)
 - [THE PERVASIVE VIOLENCE OF THE L.A. COUNTY SHERIFF’S DEPARTMENT](https://theappeal.org/the-pervasive-violence-of-the-la-county-sheriffs-department/)
 - [L.A. County deputy alleges ‘Executioner’ gang dominates Compton sheriff station](https://www.latimes.com/california/story/2020-07-30/sheriff-clique-compton-station-executioners)
 - [When is it legal for a cop to kill you?](https://www.vox.com/2014/8/13/5994305/legal-police-lethal-force-murder)
 - [The Day Ferguson Cops Were Caught in a Bloody Lie](https://www.thedailybeast.com/the-day-ferguson-cops-were-caught-in-a-bloody-lie)
 - [Piercing sound can be excessive police force, federal court rules](https://www.fastcompany.com/40585221/piercing-sound-can-be-excessive-police-force-federal-court-rules)
-- [Police defend use of water cannons on Dakota Access protesters in freezing weather](https://www.washingtonpost.com/news/morning-mix/wp/2016/11/21/police-citing-ongoing-riot-use-water-cannons-on-dakota-access-protesters-in-freezing-weather/)
-- [Police at Standing Rock Are Using Life-Threatening Crowd-Control Weapons to Crack Down on Water Protectors](https://www.aclu.org/blog/racial-justice/american-indian-rights/police-standing-rock-are-using-life-threatening-crowd)
-- [Standing Rock protesters hold out against extraordinary police violence](https://www.theguardian.com/us-news/2016/nov/29/standing-rock-protest-north-dakota-shutdown-evacuation)
-- [Reuters camera crew hit by rubber bullets as more journalists attacked at U.S. protests](https://www.reuters.com/article/us-minneapolis-police-protest-update/reuters-cameraman-hit-by-rubber-bullets-as-police-disperse-protesters-idUSKBN237050)
 - [African-American congresswoman gets pepper sprayed during George Floyd protest in Columbus](https://www.cnn.com/2020/05/30/politics/joyce-beatty-ohio-pepper-sprayed-columbus-protest/index.html)
-- [Police Violence at Protests Is Undeniable. All the Videos Are Right Here](https://www.vice.com/en_us/article/7kpbmy/police-violence-at-protests-is-undeniable-all-the-videos-are-right-here)
+- [IN A SMALL ILLINOIS CITY, A BLACK MAN DIED AFTER OFFICERS SHOVED A BATON IN HIS MOUTH. BLACK OFFICERS SAY THEY’VE SUFFERED AT THE HANDS OF THE DEPARTMENT, TOO.](https://theappeal.org/joliet-police-lawsuits/)
+- [Police killings more likely in agencies that get military gear, data shows](https://www.ajc.com/news/police-killings-more-likely-in-agencies-that-get-military-gear-data-shows/MBPQ2ZE3XFHR5NIO37BKONOCGI/)
+- [US press reports confirm killing of Portland anti-fascist was targeted police assassination](https://www.wsws.org/en/articles/2020/10/15/port-o15.html)
 
-### Dogs
+### Animals
 - [US police shoot dogs so often that a Justice Department expert calls it an “epidemic”](https://qz.com/870601/police-killing-dogs-is-an-epidemic-according-to-the-justice-department/amp/)
 - [Police Kill Nearly 25 Dogs Each Day](https://archive.is/UtPiG)
 - [What Dog Shootings Reveal About American Policing](https://www.theatlantic.com/politics/archive/2017/07/what-dog-shootings-reveal-about-american-policing/533319/)
 - [Federal court rules police can shoot a dog if it moves or barks when officer enters home](https://www.aol.com/article/news/2016/12/28/federal-court-rules-police-can-shoot-a-dog-if-it-moves-or-barks/21643443/)
+- [2 Cops Fired After Allegedly Beating Multiple Porcupines to Death](https://www.vice.com/en/article/4ayjjq/two-cops-fired-after-allegedly-beating-multiple-porcupines-to-death)
 
 ### Domestic
 - [Police Have a Much Bigger Domestic-Abuse Problem Than the NFL Does](https://www.theatlantic.com/national/archive/2014/09/police-officers-who-hit-their-wives-or-girlfriends/380329/)
 - [Police Brutality at Home: Cops Abuse Wives and Kids at Staggering Rates](https://www.fatherly.com/love-money/police-brutality-and-domestic-violence/)
+
+### Press
+- [Reuters camera crew hit by rubber bullets as more journalists attacked at U.S. protests](https://www.reuters.com/article/us-minneapolis-police-protest-update/reuters-cameraman-hit-by-rubber-bullets-as-police-disperse-protesters-idUSKBN237050)
+
+### Protests
+- [Police often provoke protest violence, UC researchers find](https://www.sfgate.com/bayarea/article/Police-often-provoke-protest-violence-UC-5704918.php) 
+- ['My Faith in This World Is Gone.' For Protesters Injured by Police, There's No Real Recovery](https://time.com/5894356/protesters-injured-police/)
+- [Police Violence at Protests Is Undeniable. All the Videos Are Right Here](https://www.vice.com/en_us/article/7kpbmy/police-violence-at-protests-is-undeniable-all-the-videos-are-right-here)
+- [‘It Was a Purposeful Trap.’ NYPD Planned Attack and Mass Arrests of Protesters, Human Rights Group Says](https://time.com/5894316/nypd-assault-arrest-protesters-report/)
+- [So much tear gas has been sprayed on Portland protesters that officials fear it's polluted the water](https://www.salon.com/2020/08/24/so-much-tear-gas-has-been-sprayed-on-portland-protesters-that-officials-fear-its-polluted-the-water/)
+- [Police defend use of water cannons on Dakota Access protesters in freezing weather](https://www.washingtonpost.com/news/morning-mix/wp/2016/11/21/police-citing-ongoing-riot-use-water-cannons-on-dakota-access-protesters-in-freezing-weather/)
+- [Police at Standing Rock Are Using Life-Threatening Crowd-Control Weapons to Crack Down on Water Protectors](https://www.aclu.org/blog/racial-justice/american-indian-rights/police-standing-rock-are-using-life-threatening-crowd)
+- [Standing Rock protesters hold out against extraordinary police violence](https://www.theguardian.com/us-news/2016/nov/29/standing-rock-protest-north-dakota-shutdown-evacuation)
+- [One man’s eye ‘exploded,’ another lost eight teeth from LAPD projectiles fired at Lakers revelers](https://www.latimes.com/california/story/2020-10-15/lapd-projectiles-gruesome-injuries-lakers-celebration)
 
 ### Rape
 - [An 18-Year-Old Said She Was Raped While In Police Custody. The Officers Say She Consented.](https://www.buzzfeednews.com/article/albertsamaha/this-teenager-accused-two-on-duty-cops-of-rape-she-had-no)

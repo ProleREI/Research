@@ -10,6 +10,8 @@
 - [What Kills 5 Million People A Year? It's Not Just Disease](https://www.npr.org/sections/goatsandsoda/2018/09/05/644928153/what-kills-5-million-people-a-year-its-not-just-disease)
 - [Study links 45,000 U.S. deaths to lack of insurance](https://www.reuters.com/article/us-usa-healthcare-deaths-idUSTRE58G6W520090917)
 - [America’s Declining Well-Being, Health, and Life Expectancy: Not Just a White Problem](https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304585)
+- [The Impact of Insurance Expansions on the Already Insured: The Affordable Care Act and Medicare](https://www.aeaweb.org/articles?id=10.1257/app.20190176)
+- [Investors Extracted $400 Million From a Hospital Chain That Sometimes Couldn’t Pay for Medical Supplies or Gas for Ambulances](https://www.propublica.org/article/investors-extracted-400-million-from-a-hospital-chain-that-sometimes-couldnt-pay-for-medical-supplies-or-gas-for-ambulances)
 
 ## Food Safety
 - [How Henry Heinz used ketchup to improve food safety](https://www.nationalgeographic.com/magazine/2019/02/how-henry-heinz-used-ketchup-to-improve-food-safety/) 

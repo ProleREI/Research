@@ -1,4 +1,7 @@
 # White Supremacy
+- [The Lie That Invented Racism](https://www.ted.com/talks/john_biewen_the_lie_that_invented_racism/up-next)
+- [Economic scarcity alters the perception of race](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4078865/)
+- [What Trump Really Means When He Tweets “LAW & ORDER!!!”](https://www.themarshallproject.org/2020/10/07/what-trump-really-means-when-he-tweets-law-order)
 - [White Supremacy](https://en.wikipedia.org/wiki/White_supremacy)
 - [Racism In the United States](https://en.wikipedia.org/wiki/Racism_in_the_United_States)
 - [Scientific Racism](https://en.wikipedia.org/wiki/Scientific_racism) 

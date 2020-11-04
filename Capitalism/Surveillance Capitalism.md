@@ -37,6 +37,9 @@
 - [Goodbye, Chrome: Google’s Web browser has become spy software](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/)  
 - [Who Needs Consent? Google Criticized Over Sneaky Changes To Browser Privacy Settings](https://www.huffingtonpost.ca/2018/09/26/google-chrome-privacy_a_23542819/)
 
+## Palantir
+- [Does Palantir See Too Much?](https://www.nytimes.com/interactive/2020/10/21/magazine/palantir-alex-karp.html)
+
 ## Verizon
 - [Verizon’s Zombie Cookie Gets New Life](https://www.propublica.org/article/verizons-zombie-cookie-gets-new-life)
 
