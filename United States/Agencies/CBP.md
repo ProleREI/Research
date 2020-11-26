@@ -3,3 +3,8 @@
 - [A Border Patrol Agent Called Migrants "Subhuman" And "Savages" Before Hitting One With A Truck](https://www.buzzfeednews.com/article/juliareinstein/border-patrol-agent-texts-migrants-subhuman-savages)
 - [Thousands of migrant children were sexually abused in U.S. custody, HHS docs say](https://www.cbsnews.com/news/thousands-of-migrant-children-were-sexually-abused-in-u-s-custody-hhs-docs-say/)
 - [Border Patrol Snipers Were Authorized to Use Deadly Force at George Floyd’s Burial](https://www.vice.com/en/article/5dz7zd/border-patrol-snipers-were-authorized-to-use-deadly-force-at-george-floyds-burial)  
+- [ICE Guards “Systematically” Sexually Assault Detainees in an El Paso Detention Center, Lawyers Say](https://www.propublica.org/article/ice-guards-systematically-sexually-assault-detainees-in-an-el-paso-detention-center-lawyers-say?)
+- [Border Patrol beat, sexually assaulted, and denied medical care to immigrant children, ACLU says](https://www.vice.com/en_us/article/4353eq/border-patrol-beat-sexually-assaulted-and-denied-medical-care-to-immigrant-children-aclu-says)
+- [US Ice officers 'used torture to make Africans sign own deportation orders'](https://theguardian.com/us-news/2020/oct/22/us-ice-officers-allegedly-used-torture-to-make-africans-sign-own-deportation-orders)
+- [Portland is living in America's terrifying future](https://www.businessinsider.com/portland-america-trump-future-police-fbi-riots-border-patrol-protests-2020-10)
+- [NUMBER OF WOMEN ALLEGING MISCONDUCT BY ICE GYNECOLOGIST NEARLY TRIPLES](https://theintercept.com/2020/10/27/ice-irwin-women-hysterectomies-senate/)

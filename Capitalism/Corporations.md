@@ -26,3 +26,12 @@
 
 # Palantir
 - [Does Palantir See Too Much?](https://www.nytimes.com/interactive/2020/10/21/magazine/palantir-alex-karp.html)
+
+#Purdue
+- [Purdue Pharma Will Plead Guilty to Federal Charges Stemming from Opioid Crisis, Pay $8 Billion Settlement](https://news.yahoo.com/purdue-pharma-plead-guilty-federal-142518052.html)
+
+# Tyson
+- [Lawsuit: Tyson managers bet money on how many workers would contract COVID-19](https://iowacapitaldispatch.com/2020/11/18/lawsuit-tyson-managers-bet-money-on-how-many-workers-would-contract-covid-19/)
+
+# Walmart
+- [Supreme Court refuses to hear Wal-Mart case; Pa. workers owed $224M](https://www.inquirer.com/philly/business/20160405_Supreme_Court_refuses_to_hear_Wal-Mart_case__Pa__workers_owed__187M.html)

@@ -8,6 +8,7 @@
 # Prince Family
 - [Erik Prince Set Up Intel Training for Project Veritas, James O’Keefe: Report](https://www.thedailybeast.com/erik-prince-set-up-intel-training-for-project-veritas-james-okeefe-report)
 - [The Complete Mercenary](https://theintercept.com/2019/05/03/erik-prince-trump-uae-project-veritas/)
+- [ECHO PAPA EXPOSED,Inside Erik Prince’s Treacherous Drive to Build a Private Air Force](https://theintercept.com/2016/04/11/blackwater-founder-erik-prince-drive-to-build-private-air-force/)
 
 # Mercer Family
 - [Inside The Wealthy Family That Has Been Funding Steve Bannon's Plan For Years](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years)

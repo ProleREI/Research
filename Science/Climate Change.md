@@ -12,4 +12,5 @@
 - [Triple crisis in the Anthropocene Ocean](https://mronline.org/2020/09/09/triple-crisis-in-the-anthropocene-ocean)
 - [How Understanding the History of the Earth's Climate Can Offer Hope Amid Crisis](https://time.com/5680432/climate-change-history-carbon/)
 - [Scientists Have Uncovered a Disturbing Climate Change Precedent](https://www.theatlantic.com/science/archive/2018/08/earths-scorching-hot-history/566762/)
+- [The Uninhabitable Earth, Annotated Edition](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans-annotated.html)
 

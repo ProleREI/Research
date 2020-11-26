@@ -23,4 +23,4 @@
 - [Study: Trump fans are much angrier about housing assistance when they see an image of a black man](https://www.vox.com/identities/2017/9/8/16270040/trump-clinton-supporters-racist)
 - [Do white people want merit-based admissions policies? Depends on who their competition is.](https://www.vox.com/2016/5/22/11704756/affirmative-action-merit)
 - [Cost Of Racism: U.S. Economy Lost $16 Trillion Because Of Discrimination, Bank Says](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/09/23/916022472/cost-of-racism-u-s-economy-lost-16-trillion-because-of-discrimination-bank-says)
-
+- [Harland Bartholomew](https://en.wikipedia.org/wiki/Harland_Bartholomew)

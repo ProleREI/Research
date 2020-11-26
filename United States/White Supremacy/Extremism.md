@@ -24,5 +24,14 @@
 - [Tracking the Shifting Shape of Far-Right Political Violence](https://www.bloomberg.com/news/articles/2020-10-16/is-far-right-political-violence-getting-worse)
 - [The Escalating Terrorism Problem in the United States](https://www.csis.org/analysis/escalating-terrorism-problem-united-states)
 - [Are Paramilitary Extremists Being Normalized? Look To Idaho For Answers](https://www.npr.org/2020/10/17/924461164/are-paramilitary-extremists-being-normalized-look-to-idaho-for-answers)
+- [STANDING BY: RIGHT-WING MILITIA GROUPS & THE US ELECTION](https://acleddata.com/2020/10/21/standing-by-militias-election/)
+- [IntelBrief: The United States Remains a Tinderbox as Tensions Continue to Mount](https://thesoufancenter.org/intelbrief-the-united-states-remains-a-tinderbox-as-tensions-continue-to-mount/)
+- [The Boogaloo Movement Is Not What You Think](https://www.bellingcat.com/news/2020/05/27/the-boogaloo-movement-is-not-what-you-think/)
+- [NUMBER OF WOMEN ALLEGING MISCONDUCT BY ICE GYNECOLOGIST NEARLY TRIPLES](https://theintercept.com/2020/10/27/ice-irwin-women-hysterectomies-senate/)
+- [Police: ‘Trump Train’ leads to incidents, gunfire near Lee monument](https://www.nbc12.com/2020/11/01/police-trump-train-leads-incidents-gunfire-near-lee-monument/)
+- [Cars Have Hit Protesters More Than 100 Times This Year](https://www.wsj.com/articles/cars-have-hit-protesters-more-than-100-times-this-year-11603645201)
+- [DISTURBING NEW DETAILS IN ALLEGED PLOT TO KIDNAP MICHIGAN GOVERNOR GRETCHEN WHITMER](https://abc7chicago.com/amp/michigan-governor-gretchen-whitmer-kidnapping-plot-militia/8079861/)
+- [Meet MyMilitia, Where Right-Wing Extremists Find Friendship and Fantasize About Violence](https://www.vice.com/en/article/y3gmmk/meet-mymilitia-where-right-wing-extremists-find-friendship-and-fantasize-about-violence)
+
 
 

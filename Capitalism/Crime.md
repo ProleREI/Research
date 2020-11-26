@@ -13,7 +13,8 @@
 
 # Labor
 - [List of worker deaths in United States labor disputes](https://en.wikipedia.org/wiki/List_of_worker_deaths_in_United_States_labor_disputes)  
-- [These Migrant Workers Called 911 During Hurricane Florence. But No One Came To Their Rescue.](https://www.buzzfeednews.com/article/salvadorhernandez/migrant-workers-stranded-hurricane-florence)  
+- [These Migrant Workers Called 911 During Hurricane Florence. But No One Came To Their Rescue.](https://www.buzzfeednews.com/article/salvadorhernandez/migrant-workers-stranded-hurricane-florence)
+- [Wage Theft is a Much Bigger Problem Than Other Forms of Theft—But Workers Remain Mostly Unprotected](https://www.epi.org/publication/wage-theft-bigger-problem-forms-theft-workers/)  
 
 # Misconduct
 - [‘Green’ billionaires behind professional activist network that led suppression of ‘Planet of the Humans’ documentary](https://thegrayzone.com/2020/09/07/green-billionaires-planet-of-the-humans/)
@@ -21,3 +22,7 @@
 - [The Factory Oversight Industry Protects Profits, Not People](https://www.thenation.com/article/world/factory-audit-investigation/)
 - [Exxon’s Plan for Surging Carbon Emissions Revealed in Leaked Documents](https://www.bloomberg.com/news/articles/2020-10-05/exxon-carbon-emissions-and-climate-leaked-plans-reveal-rising-co2-output)
 - [Recycling was a lie — a big lie — to sell more plastic, industry experts say](https://www.cbc.ca/documentaries/the-passionate-eye/recycling-was-a-lie-a-big-lie-to-sell-more-plastic-industry-experts-say-1.5735618)
+- [Landlords skirt COVID-19 eviction bans, using intimidation and tricks to boot tenants](https://www.usatoday.com/story/news/investigations/2020/11/20/landlords-use-intimidation-tricks-push-renters-out-amid-pandemic/6284752002/)
+
+# Tax Avoidance
+- [Delaware: An Onshore Tax Haven](https://itep.org/delaware-an-onshore-tax-haven/)

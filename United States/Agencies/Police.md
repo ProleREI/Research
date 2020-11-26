@@ -15,6 +15,10 @@
 - [The Cop Who Quit Instead of Helping to Gentrify Atlanta](https://www.motherjones.com/crime-justice/2020/09/the-cop-who-quit-instead-of-helping-to-gentrify-atlanta/)
 - [Judge says she is 'concerned' detective may have lied to get Breonna Taylor search warrant](https://www.courier-journal.com/story/news/local/breonna-taylor/2020/10/01/breonna-taylor-case-judge-concerned-lmpd-cop-lied-get-warrant/5883362002/)
 - [How Police Fund Surveillance Technology is Part of the Problem](https://www.eff.org/deeplinks/2020/09/how-police-fund-surveillance-technology-part-problem)
+- [After the Last Cop Killed Himself, All the Criminals Have to Do Is Hide](https://www.propublica.org/article/the-last-police-officer)
+- [The other side of the COIN: counterinsurgency and community policing, Kristian Williams](http://www.interfacejournal.net/wordpress/wp-content/uploads/2011/05/Interface-3-1-Williams.pdf)
+- [The Ghosts of Stonewall: Policing Gender, Policing Sex](The Ghosts of Stonewall: Policing Gender, Policing Sex)
+- [The Police Can Probably Break Into Your Phone](https://www.nytimes.com/2020/10/21/technology/iphone-encryption-police.html)
 
 ## Abuse of Power
 - [Police Union Complains That Public Got to See Them Roughing Up Utah Nurse](https://reason.com/2017/09/27/police-union-complains-that-public-got-t/)
@@ -23,11 +27,14 @@
 - [Deputies accused of complex plan to bilk woman with dementia](https://www.foxnews.com/us/deputies-accused-of-complex-plan-to-bilk-woman-with-dementia)
 - [The Collected Crimes of Sheriff Joe Arpaio](https://longreads.com/2017/08/28/the-collected-crimes-of-sheriff-joe-arpaio/)
 - [Hidden footage shows how difficult it is to file a complaint against a police officer](https://www.indy100.com/article/florida-police-complaint-video-hidden-footage-officer-intimidation-miami-8876436)
+- [“Like A Bludgeon”: Corruption, Counter-Insurgency & The Limits Of Reform Within The Baltimore Police](https://itsgoingdown.org/like-a-bludgeon-corruption-counter-insurgency-the-limits-of-reform-within-the-baltimore-police/)
+- [WHEN YOUR STALKER IS A COP](https://psmag.com/news/stalker-cop-police-protection-danger-crime-harassment-93995)
 
 ## Accountability
 - [Defund Our Punishment Bureaucracy](https://prospect.org/justice/defund-our-punishment-bureaucracy/)
 - [A Plan to Make Police Data Open Source Started on Reddit](https://www.wired.com/story/police-accountability-data-project-open-source-reddit/)
 - [Meet the activists who created an ever-growing Google Doc of police violence across America](https://www.mic.com/p/meet-the-activists-who-created-ever-growing-google-doc-of-police-violence-across-america-22970905)
+- [ACTIVISTS BUILD FACIAL RECOGNITION TO ID COPS WHO HIDE THEIR BADGES](https://futurism.com/the-byte/activists-build-facial-recognition-id-cops-hide-badges)
 
 ## Civil Asset Forfeiture
 - [Civil forfeiture in the United States](https://en.wikipedia.org/wiki/Civil_forfeiture_in_the_United_States)
@@ -51,6 +58,12 @@
 - [Officers rewarded for use of force with steakhouse gift cards, former Williamson deputies say](https://www.statesman.com/news/20200917/officers-rewarded-for-use-of-force-with-steakhouse-gift-cards-former-williamson-deputies-say)
 - [Which Police Departments Are as Diverse as Their Communities?](https://www.nytimes.com/interactive/2020/09/23/us/bureau-justice-statistics-race.html)
 - [A Pro-Trump Militant Group Has Recruited Thousands of Police, Soldiers, and Veterans](https://amp.theatlantic.com/amp/article/616473/)
+- [Michigan sheriff's court deputy fired after posting photo of Kamala Harris watermelon carving](https://www.cnn.com/2020/11/20/us/michigan-sheriff-court-deputy-fired-kamala-harris-watermelon/index.html)
+- [The Village Where Every Cop Has Been Convicted of Domestic Violence](https://www.propublica.org/article/stebbins-alaska-cops-criminal-records-domestic-violence)
+- [Alabama police captain on social media about Biden voters: 'Put a bullet in their skull'](https://www.msn.com/en-us/news/crime/alabama-police-captain-on-social-media-about-biden-voters-put-a-bullet-in-their-skull/ar-BB1aJvlp)
+- [Breonna Taylor grand jurors say police actions were 'negligent' and 'criminal'](https://www.nbcnews.com/news/us-news/breonna-taylor-grand-jurors-say-police-actions-were-negligent-criminal-n1245022)
+- [KSP training slideshow quotes Hitler, advocates ‘ruthless’ violence](https://manualredeye.com/90096/news/local/police-training-hitler-presentation/#)
+- [Family of Black teen found dead in sugar cane field says police didn't take his disappearance seriously](https://www.cbsnews.com/news/quawan-bobby-charles-dead-louisiana-police/)
 
 ## Funding
 - [As U.S. crime rates dropped, local police spending soared](https://www.politico.com/interactives/2020/police-budget-spending-george-floyd-defund/)
@@ -62,6 +75,7 @@
 
 ## Immunity
 - [Cop Who Accidentally Shot 10-Year-Old When Aiming For Family Dog Can’t Be Sued, Federal Court Rules](https://www.forbes.com/sites/nicksibilla/2019/07/18/cop-who-accidentally-shot-10-year-old-when-aiming-for-family-dog-cant-be-sued-federal-court-rules/#1e3e1bb73987)
+- [How Cops Who Use Force and Even Kill Can Hide Their Names From the Public](https://www.propublica.org/article/how-cops-who-use-force-and-even-kill-can-hide-their-names-from-the-public)
 
 ## Retaliation
 - [What Can Mayors Do When the Police Stop Doing Their Jobs?](https://www.propublica.org/article/what-can-mayors-do-when-the-police-stop-doing-their-jobs)
@@ -78,6 +92,7 @@
 ## Unions
 - [It’s Past Time to Examine How Police Unions Protect Bad Cops](https://www.nationalreview.com/2020/05/george-floyd-death-focus-on-police-unions-protecting-bad-cops/)
 - [Why We Can’t Support Police Unions](https://www.jacobinmag.com/2015/07/black-lives-matter-patrick-lynch-ferguson/)
+- [How Police Union Contracts Incentivize Police Misconduct and Crime](https://medium.com/discourse/how-police-union-contracts-incentivize-police-misconduct-and-crime-d8119bdfdac7)
 
 ## Violence
 - [Half of people killed by police suffer from mental disability](https://www.nbcnews.com/news/us-news/half-people-killed-police-suffer-mental-disability-report-n538371)
@@ -93,6 +108,8 @@
 - [IN A SMALL ILLINOIS CITY, A BLACK MAN DIED AFTER OFFICERS SHOVED A BATON IN HIS MOUTH. BLACK OFFICERS SAY THEY’VE SUFFERED AT THE HANDS OF THE DEPARTMENT, TOO.](https://theappeal.org/joliet-police-lawsuits/)
 - [Police killings more likely in agencies that get military gear, data shows](https://www.ajc.com/news/police-killings-more-likely-in-agencies-that-get-military-gear-data-shows/MBPQ2ZE3XFHR5NIO37BKONOCGI/)
 - [US press reports confirm killing of Portland anti-fascist was targeted police assassination](https://www.wsws.org/en/articles/2020/10/15/port-o15.html)
+- [Reuters Taser Database](https://www.reuters.com/investigates/special-report/usa-taser-database/)
+- [When police use Tasers, Black Americans die in disproportionate numbers](https://www.businessinsider.com/black-americans-die-in-disproportionate-numbers-when-police-use-taser-2020-6?op=1)
 
 ### Animals
 - [US police shoot dogs so often that a Justice Department expert calls it an “epidemic”](https://qz.com/870601/police-killing-dogs-is-an-epidemic-according-to-the-justice-department/amp/)
@@ -118,8 +135,15 @@
 - [Police at Standing Rock Are Using Life-Threatening Crowd-Control Weapons to Crack Down on Water Protectors](https://www.aclu.org/blog/racial-justice/american-indian-rights/police-standing-rock-are-using-life-threatening-crowd)
 - [Standing Rock protesters hold out against extraordinary police violence](https://www.theguardian.com/us-news/2016/nov/29/standing-rock-protest-north-dakota-shutdown-evacuation)
 - [One man’s eye ‘exploded,’ another lost eight teeth from LAPD projectiles fired at Lakers revelers](https://www.latimes.com/california/story/2020-10-15/lapd-projectiles-gruesome-injuries-lakers-celebration)
+- [March to Alamance polls ends with police using pepper-spray on protesters, children](https://www.newsobserver.com/news/local/article246861942.html)
+- [Police Reportedly Committed 125 Human Rights Violations During BLM Protests](https://www.complex.com/life/2020/08/police-reportedly-committed-125-human-rights-violations-during-racial-justice-black-lives-matter-protests-amnesty-international)
+- [Video: Sheriff’s deputy shoots and kills two Black teens in car](https://www.dailydot.com/irl/florida-deputy-shoots-kills-black-teens/)
+- [Reuters finds 1,005 deaths in U.S. involving Tasers, largest accounting to date](https://www.reuters.com/article/us-axon-taser-toll-idUSKCN1B21AH)
+- [BLACK AND BLUE](https://www.inquirer.com/news/inq/philadelphia-police-brutality-history-frank-rizzo-20200710.html)
 
 ### Rape
 - [An 18-Year-Old Said She Was Raped While In Police Custody. The Officers Say She Consented.](https://www.buzzfeednews.com/article/albertsamaha/this-teenager-accused-two-on-duty-cops-of-rape-she-had-no)
 - [COPS HAVING SEX WITH DETAINEES SHOULD ALWAYS BE CONSIDERED RAPE, SAY NEW YORK POLITICIANS](https://theintercept.com/2017/11/02/nypd-rape-charges-new-york-law/)
 - [NYPD detectives accused of raping teen in police van have resigned, department says](https://www.washingtonpost.com/news/post-nation/wp/2017/11/02/nypd-detectives-raped-a-teen-in-the-back-of-a-police-van-after-her-arrest-prosecutors-say/)
+- [Louisville police, county attorney's office hide 738,000 records in Explorer sex abuse case](https://www.courier-journal.com/story/news/crime/2020/11/11/lmpd-explorer-scandal-lawyers-say-police-lied-conceal-records/6224382002/)
+

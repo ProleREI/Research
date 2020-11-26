@@ -18,3 +18,4 @@
 - [Jailers shut off water to Terrill Thomas' cell, and he died of dehydration. His family now has $6.75 million](https://www.cnn.com/2019/05/29/us/milwaukee-inmate-dehydration-lawsuit/index.html)
 - [NC agencies lock down info on inmate’s death from dehydration](https://www.newsobserver.com/news/local/crime/article10122629.html)
 - [The Death Of Timothy Souders](https://www.cbsnews.com/news/the-death-of-timothy-souders/)
+- [Special Report: Why 4,998 died in U.S. jails without getting their day in court](https://www.reuters.com/article/us-usa-jails-deaths-special-report-idUSKBN2711JJ)

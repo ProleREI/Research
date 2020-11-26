@@ -13,4 +13,10 @@
 - [How tech's richest plan to save themselves after the apocalypse](https://www.theguardian.com/technology/2018/jul/23/tech-industry-wealth-futurism-transhumanism-singularity)
 - [World's richest 1% cause double CO2 emissions of poorest 50%, says Oxfam](https://www.theguardian.com/environment/2020/sep/21/worlds-richest-1-cause-double-co2-emissions-of-poorest-50-says-oxfam?CMP=Share_iOSApp_Other)
 - [The Puzzle of Motivation](https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation)
-
+- [THE VIOLENT BIRTH OF CORPORATIONS](https://www.globaltrademag.com/violent-birth-corporations/)
+- [The Corporatization of Nursing Homes](https://prospect.org/familycare/the-corporatization-of-nursing-homes/)
+- [The Commodification of Journalism](https://medium.com/social-media-writings/the-commodification-of-journalism-3f37f8e021b9)
+- [Entrepreneurs don’t have a special gene for risk—they come from families with money](https://qz.com/455109/entrepreneurs-dont-have-a-special-gene-for-risk-they-come-from-families-with-money/)
+- [Capitalism Will Ruin the Earth By 2050, Scientists Say](https://www.vice.com/en/article/v7m48d/capitalism-will-ruin-the-earth-by-2050-scientists-say)
+- [The Invention of Capitalism: How a Self-Sufficient Peasantry was Whipped Into Industrial Wage Slaves](https://www.filmsforaction.org/news/recovered-economic-history-everyone-but-an-idiot-knows-that-the-lower-classes-must-be-kept-poor-or-they-will-never-be-industrious/)
+- [The $36 Trillion Bill for Neglecting Climate and Free Trade](https://www.bloomberg.com/graphics/2020-global-economic-and-climate-change-forecast-2050/)

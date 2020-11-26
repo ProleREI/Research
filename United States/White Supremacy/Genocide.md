@@ -12,3 +12,4 @@
 - [Rosewood Race Massacre](https://en.wikipedia.org/wiki/Rosewood_massacre)
 - [Christopher Columbus Controversy](https://www.history.com/news/columbus-day-controversy)
 - [Taino Peoples](https://en.wikipedia.org/wiki/Ta%C3%ADno)
+- [NUMBER OF WOMEN ALLEGING MISCONDUCT BY ICE GYNECOLOGIST NEARLY TRIPLES](https://theintercept.com/2020/10/27/ice-irwin-women-hysterectomies-senate/)
