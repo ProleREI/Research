@@ -17,7 +17,7 @@
 - [How Police Fund Surveillance Technology is Part of the Problem](https://www.eff.org/deeplinks/2020/09/how-police-fund-surveillance-technology-part-problem)
 - [After the Last Cop Killed Himself, All the Criminals Have to Do Is Hide](https://www.propublica.org/article/the-last-police-officer)
 - [The other side of the COIN: counterinsurgency and community policing, Kristian Williams](http://www.interfacejournal.net/wordpress/wp-content/uploads/2011/05/Interface-3-1-Williams.pdf)
-- [The Ghosts of Stonewall: Policing Gender, Policing Sex](https://truthout.org/articles/the-ghosts-of-stonewall-policing-gender-policing-sex/
+- [The Ghosts of Stonewall: Policing Gender, Policing Sex](https://truthout.org/articles/the-ghosts-of-stonewall-policing-gender-policing-sex/)
 - [The Police Can Probably Break Into Your Phone](https://www.nytimes.com/2020/10/21/technology/iphone-encryption-police.html)
 
 ## Abuse of Power
