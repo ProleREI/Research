@@ -1,4 +1,6 @@
 # Surveillance Capitalism
+- [We're building a dystopia just to make people click on ads, Zeynep Tufekci](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/discussion?referrer=playlist-talks_to_watch_instead_of_shop)
+- [Why an insecure internet is actually in tech companies’ best interests](https://ideas.ted.com/why-an-insecure-internet-is-actually-in-tech-companies-best-interests/)
 - [It's not just Facebook. Thousands of companies are spying on you](https://www.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)
 - [Your Phone Is Listening—Literally Listening—to Your TV](https://www.theatlantic.com/technology/archive/2015/11/your-phone-is-literally-listening-to-your-tv/416712/)
 - [Amazon and Google are listening to your voice recordings. Here's what we know about that](https://www.cnet.com/how-to/amazon-and-google-are-listening-to-your-voice-recordings-heres-what-we-know/)
@@ -10,6 +12,8 @@
 - [Wall Street Journal’s “What They Know” Series](https://ashkansoltani.org/work/what-they-know/)
 - [Comments for November 2015 Workshop on Cross-Device Tracking](https://cdt.org/wp-content/uploads/2015/11/10.16.15-CDT-Cross-Device-Comments.pdf)
 - [Searching for Ultrasonic Beacons](https://altmode.org/2015/11/13/searching-for-ultrasonic-beacons/)
+- [Your smart TV might be spying on you, FBI warns](https://www.cbsnews.com/news/smart-tv-spying-fbi-says-the-device-may-be-spying-on-you-today-2019-12-03/)
+- [As smart TVs become the only option, your privacy choices fizzle out](https://www.cnet.com/news/as-smart-tvs-become-the-only-option-your-privacy-choices-fizzle-out/)
 
 ## Browser Fingerprinting
 - [Browser Fingerprinting (2020 Update) – What Is It & How to avoid It](https://blokt.com/guides/browser-fingerprinting)
