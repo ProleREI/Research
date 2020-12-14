@@ -1,18 +1,10 @@
-# Conservatism
-- [Brooks Brothers Riot](https://en.m.wikipedia.org/wiki/Brooks_Brothers_riot)
-- ['Throughline' Traces Evangelicals' History On The Abortion Issue](https://www.npr.org/2019/06/20/734303135/throughline-traces-evangelicals-history-on-the-abortion-issue)
-
 # Elections
 - [U.S. Elections Are Neither Free Nor Fair. States Need to Open Their Doors to More Observers.](https://theintercept.com/2018/11/05/u-s-elections-are-neither-free-nor-fair-states-need-to-open-their-doors-to-more-observers/)
 - [How much is spent on campaigns in the US?](https://fundedbyhumans.org/how-much-is-spent-on-campaigns-in-the-us/)
 - [Donor Demographics](https://www.opensecrets.org/elections-overview/donor-demographics?cycle=2020&display=G)
 - [Gerrymandering Is Even More Infuriating When You Can Actually See It](https://www.wired.com/2016/01/gerrymandering-is-even-more-infuriating-when-you-can-actually-see-it/)
 
-# Politics
-- [NOMINATE (scaling method)](https://en.m.wikipedia.org/wiki/NOMINATE_(scaling_method))
-- [America is exceptional in the nature of its political divide](https://www.pewresearch.org/fact-tank/2020/11/13/america-is-exceptional-in-the-nature-of-its-political-divide/)
-
-# Voter Fraud
+## Voter Fraud
 - [Policy Brief on Voter Identification](http://www.brennancenter.org/analysis/policy-brief-voter-identification)
 - [In 5-Year Effort, Scant Evidence of Voter Fraud](https://www.nytimes.com/2007/04/12/washington/12fraud.html) 
 - [The Voter-Fraud Myth](http://www.newyorker.com/magazine/2012/10/29/the-voter-fraud-myth)
@@ -26,5 +18,26 @@
 - [Judge in Landmark Case Disavows Support for Voter ID](http://www.nytimes.com/2013/10/16/us/politics/judge-in-landmark-case-disavows-support-for-voter-id.html)  
 - [Mail-In Voter Fraud: Anatomy of a Disinformation Campaign](https://cyber.harvard.edu/publication/2020/Mail-in-Voter-Fraud-Disinformation-2020)  
 
-# Voter Suppression
+## Voter Suppression
 - [Georgia likely removed nearly 200k from voter rolls wrongfully, report says](https://www.cnn.com/2020/09/02/politics/georgia-voter-rolls-report/index.html)
+
+# Politics
+- [NOMINATE (scaling method)](https://en.m.wikipedia.org/wiki/NOMINATE_(scaling_method))
+- [America is exceptional in the nature of its political divide](https://www.pewresearch.org/fact-tank/2020/11/13/america-is-exceptional-in-the-nature-of-its-political-divide/)
+
+## Conservatism
+- [Brooks Brothers Riot](https://en.m.wikipedia.org/wiki/Brooks_Brothers_riot)
+- ['Throughline' Traces Evangelicals' History On The Abortion Issue](https://www.npr.org/2019/06/20/734303135/throughline-traces-evangelicals-history-on-the-abortion-issue)
+
+## Liberalism
+- [People worry that 'moderate' Democrats like Joe Biden are the same as Republicans. Our study suggests they may be right](https://www.independent.co.uk/voices/biden-moderate-democrats-republicans-conservative-study-john-kasich-aoc-a9699431.html)
+
+# Politicians
+
+## Kamala Harris
+- [KAMALA HARRIS’S CRIMINAL JUSTICE RECORD KILLED HER PRESIDENTIAL RUN](https://theappeal.org/kamala-harris-criminal-justice-record-killed-her-presidential-run/)  
+
+## Joe Biden 
+- [Joe Biden Told Civil Rights Leaders to Pipe Down About Police Reform in Leaked Audio](https://www.vice.com/en/article/xgzaxk/joe-biden-told-civil-rights-leaders-to-pipe-down-about-police-reform-in-leaked-audio)
+
+

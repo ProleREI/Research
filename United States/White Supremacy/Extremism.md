@@ -12,10 +12,7 @@
 - [Domestic terror in the age of Trump](https://www.revealnews.org/article/domestic-terror-in-the-age-of-trump/)
 - [Patriot Coalition: Leaked Messages Show Far-Right Group's Plans for Portland Violence](https://www.bellingcat.com/news/2020/09/23/patriot-coalition-far-right-chat-logs-violence/)
 - [COUNTERING VIOLENT EXTREMISM: Actions Needed to Define Strategy and Assess Progress of Federal Efforts](https://www.gao.gov/assets/690/683984.pdf)
-- ["We're ready": White supremacist Proud Boys activated after President Trump tells them to "stand by"](https://news.yahoo.com/were-ready-white-supremacist-proud-231333070.html)
-- [Proud Boys are a dangerous 'white supremacist' group say US agencies](https://news.yahoo.com/proud-boys-dangerous-white-supremacist-083003299.html)
 - [A Pro-Trump Militant Group Has Recruited Thousands of Police, Soldiers, and Veterans](https://amp.theatlantic.com/amp/article/616473/)
-- [The Proud Boys chairman says members of the extremist organization are running for office — and you might not know if you're voting for one](https://www.insider.com/proud-boys-chairman-says-members-run-for-office-election-2020-9)
 - [FBI charges six who it says plotted to kidnap Michigan Gov. Gretchen Whitmer, as seven more who wanted to ignite civil war face state charges](https://www.washingtonpost.com/national-security/michigan-governor-kidnap-plot/2020/10/08/0032e206-0980-11eb-9be6-cf25fb429f1a_story.html)
 - [Revisiting the Economics and Terrorism Nexus: Collective Deprivation, Ideology and Domestic Radicalization in the US (1948–2016)](https://link.springer.com/article/10.1007/s10940-019-09422-z)
 - [The Pandemic Crisis, Economic Recession And The Rise of Extremism](http://nycfpa.org/blog/the-pandemic-crisis-economic-recession-and-the-rise-of-extremism/)
@@ -32,6 +29,14 @@
 - [Cars Have Hit Protesters More Than 100 Times This Year](https://www.wsj.com/articles/cars-have-hit-protesters-more-than-100-times-this-year-11603645201)
 - [DISTURBING NEW DETAILS IN ALLEGED PLOT TO KIDNAP MICHIGAN GOVERNOR GRETCHEN WHITMER](https://abc7chicago.com/amp/michigan-governor-gretchen-whitmer-kidnapping-plot-militia/8079861/)
 - [Meet MyMilitia, Where Right-Wing Extremists Find Friendship and Fantasize About Violence](https://www.vice.com/en/article/y3gmmk/meet-mymilitia-where-right-wing-extremists-find-friendship-and-fantasize-about-violence)
+- [Inside a Neo-Nazi Terror Cell as It Reckons With FBI Arrests](https://www.vice.com/en/article/akd37j/inside-a-neo-nazi-terror-cell-as-it-reckons-with-fbi-arrests)
+- [Website targeting U.S. election officials draws attention of intelligence agencies](https://www.reuters.com/article/idUSKBN28K34F)
+
+## Proud Boys
+- ["We're ready": White supremacist Proud Boys activated after President Trump tells them to "stand by"](https://news.yahoo.com/were-ready-white-supremacist-proud-231333070.html)
+- [Proud Boys are a dangerous 'white supremacist' group say US agencies](https://news.yahoo.com/proud-boys-dangerous-white-supremacist-083003299.html)
+- [The Proud Boys chairman says members of the extremist organization are running for office — and you might not know if you're voting for one](https://www.insider.com/proud-boys-chairman-says-members-run-for-office-election-2020-9)
+- [Proud Boys Member Threatens Armed Revolt Outside Giuliani Meeting: 'Not Going to Stand Back and Stand By Anymore'](https://www.newsweek.com/proud-boys-member-threatens-armed-revolt-outside-giuliani-meeting-not-going-stand-back-stand-1551261)
 
 
 

@@ -1,4 +1,12 @@
-# Surveillance Capitalism
+# Surveillance
+
+## Government Partnerships
+- [COMBATTING THE SURVEILLANCE INDUSTRIAL COMPLEX](https://www.aclu.org/report/combatting-surveillance-industrial-complex)
+- [CENSORSHIP AND SURVEILLANCE OF JOURNALISTS: AN UNSCRUPULOUS BUSINESS](https://rsf.org/sites/default/files/rsf_report_censorship_and_surveillance_of_journalists_0.pdf)
+- [WHAT'S WRONG WITH FUSION CENTERS - EXECUTIVE SUMMARY](https://www.aclu.org/report/whats-wrong-fusion-centers-executive-summary)
+- [China’s Surveillance State Sucks Up Data. U.S. Tech Is Key to Sorting It.](https://www.nytimes.com/2020/11/22/technology/china-intel-nvidia-xinjiang.html)
+
+## Surveillance Capitalism
 - [We're building a dystopia just to make people click on ads, Zeynep Tufekci](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/discussion?referrer=playlist-talks_to_watch_instead_of_shop)
 - [Why an insecure internet is actually in tech companies’ best interests](https://ideas.ted.com/why-an-insecure-internet-is-actually-in-tech-companies-best-interests/)
 - [It's not just Facebook. Thousands of companies are spying on you](https://www.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)
@@ -15,13 +23,23 @@
 - [Your smart TV might be spying on you, FBI warns](https://www.cbsnews.com/news/smart-tv-spying-fbi-says-the-device-may-be-spying-on-you-today-2019-12-03/)
 - [As smart TVs become the only option, your privacy choices fizzle out](https://www.cnet.com/news/as-smart-tvs-become-the-only-option-your-privacy-choices-fizzle-out/)
 
-## Browser Fingerprinting
+### Browser Fingerprinting
 - [Browser Fingerprinting (2020 Update) – What Is It & How to avoid It](https://blokt.com/guides/browser-fingerprinting)
 - [This is Your Digital Fingerprint](https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/)
 - [Digital Fingerprinting Based on Keystroke Dynamics](https://www.researchgate.net/publication/228541919_Digital_Fingerprinting_Based_on_Keystroke_Dynamics)  
 - [Browser Fingerprinting: What Is It and What Should You Do About It?](https://pixelprivacy.com/resources/browser-fingerprinting/)
 - [What Is Device Fingerprinting And How Does It Work?](https://clearcode.cc/blog/device-fingerprinting/)
 
+## Workplace Surveillance
+- [Private spies reportedly infiltrated an Amazon strike, secretly taking photos of workers, trade unionists, and journalists. Now a union is taking legal action.](https://www.businessinsider.com/amazon-pinkerton-agency-spies-union-strike-spain-ccoo-legal-action-2020-12)
+- [If you use your personal phone for work, say goodbye to your privacy](https://www.fastcompany.com/90440073/if-you-use-your-personal-phone-for-work-say-goodbye-to-your-privacy)
+- [The boss in your bedroom: As workplace surveillance spreads, what are your rights?](https://fortune.com/2020/05/20/work-surveillance-worker-rights-privacy-coronavirus/)
+- [Big Brother isn't just watching: workplace surveillance can track your every move](https://www.theguardian.com/world/2017/nov/06/workplace-surveillance-big-brother-technology)
+- [Workplace Surveillance in Times of Corona](https://www.eff.org/deeplinks/2020/09/workplace-surveillance-times-corona)
+- [The Workplace-Surveillance Technology Boom](https://slate.com/technology/2020/05/workplace-surveillance-apps-coronavirus.html)
+- [Google illegally spied on workers before firing them, US labor board alleges](https://www.theverge.com/2020/12/2/22047383/google-spied-workers-before-firing-labor-complaint)
+
+# Companies
 ## Facebook
 - [Facebook Doesn’t Tell Users Everything It Really Knows About Them](https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them)
 - [Facebook can track your browsing even after you've logged out, judge says](https://www.theguardian.com/technology/2017/jul/03/facebook-track-browsing-history-california-lawsuit)
@@ -49,3 +67,5 @@
 
 ## Vizio
 - [Own a Vizio Smart TV? It’s Watching You](https://www.propublica.org/article/own-a-vizio-smart-tv-its-watching-you)
+
+

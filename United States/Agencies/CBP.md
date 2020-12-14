@@ -8,3 +8,5 @@
 - [US Ice officers 'used torture to make Africans sign own deportation orders'](https://theguardian.com/us-news/2020/oct/22/us-ice-officers-allegedly-used-torture-to-make-africans-sign-own-deportation-orders)
 - [Portland is living in America's terrifying future](https://www.businessinsider.com/portland-america-trump-future-police-fbi-riots-border-patrol-protests-2020-10)
 - [NUMBER OF WOMEN ALLEGING MISCONDUCT BY ICE GYNECOLOGIST NEARLY TRIPLES](https://theintercept.com/2020/10/27/ice-irwin-women-hysterectomies-senate/)
+- [LEAKED ICE GUIDE OFFERS UNPRECEDENTED VIEW OF AGENCY’S ASSET FORFEITURE TACTICS](https://theintercept.com/2017/10/13/ice-hsi-asset-forfeiture-handbook/)
+- [The DEA and ICE are hiding surveillance cameras in streetlights](https://qz.com/1458475/the-dea-and-ice-are-hiding-surveillance-cameras-in-streetlights/)

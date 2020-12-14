@@ -29,3 +29,4 @@
 - [Economic Inequality: It’s Far Worse Than You Think](https://www.scientificamerican.com/article/economic-inequality-it-s-far-worse-than-you-think/)
 - [Soaring wealth during pandemic highlights rising inequality](https://apnews.com/28a44dd1a025d9b9af5a8d4ff8c5a033)
 - [Millionaires and Billionaires Own 79% of All Household Wealth](https://www.peoplespolicyproject.org/2020/09/28/millionaires-and-billionaires-own-79-of-all-household-wealth/)
+- [Wage inequality gets worse: Bottom 90% stuck in $30,000 range as top 0.1% take home way more than $1 million on average](https://finance.yahoo.com/news/wage-inequality-gets-worse-bottom-90-stuck-in-30000-range-as-top-01-take-home-way-more-than-1-million-on-average-200646118.html)

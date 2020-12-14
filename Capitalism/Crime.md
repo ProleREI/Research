@@ -15,6 +15,7 @@
 - [List of worker deaths in United States labor disputes](https://en.wikipedia.org/wiki/List_of_worker_deaths_in_United_States_labor_disputes)  
 - [These Migrant Workers Called 911 During Hurricane Florence. But No One Came To Their Rescue.](https://www.buzzfeednews.com/article/salvadorhernandez/migrant-workers-stranded-hurricane-florence)
 - [Wage Theft is a Much Bigger Problem Than Other Forms of Theft—But Workers Remain Mostly Unprotected](https://www.epi.org/publication/wage-theft-bigger-problem-forms-theft-workers/)  
+- [A Big Union Wants to Make Videogame Workers' Lives More Sane](https://www.wired.com/story/big-union-make-videogame-workers-lives-sane/)
 
 # Misconduct
 - [‘Green’ billionaires behind professional activist network that led suppression of ‘Planet of the Humans’ documentary](https://thegrayzone.com/2020/09/07/green-billionaires-planet-of-the-humans/)

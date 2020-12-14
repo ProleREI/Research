@@ -24,3 +24,6 @@
 - [Do white people want merit-based admissions policies? Depends on who their competition is.](https://www.vox.com/2016/5/22/11704756/affirmative-action-merit)
 - [Cost Of Racism: U.S. Economy Lost $16 Trillion Because Of Discrimination, Bank Says](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/09/23/916022472/cost-of-racism-u-s-economy-lost-16-trillion-because-of-discrimination-bank-says)
 - [Harland Bartholomew](https://en.wikipedia.org/wiki/Harland_Bartholomew)
+- [RACE GAP IN U.S. LIFE EXPECTANCY WIDENS AS COVID-19 TOLL GROWS](https://theintercept.com/2020/11/20/covid-19-pandemic-life-expectancy-race/)
+- [Redoshi](https://en.m.wikipedia.org/wiki/Redoshi)
+- [Amelia Boynton Robinson](https://en.m.wikipedia.org/wiki/Amelia_Boynton_Robinson)

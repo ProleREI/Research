@@ -4,3 +4,4 @@
 - [The LMPF Corporate Sponsors and Board](https://littlesis.org/oligrapher/5317-the-lmpf-corporate-sponsors-and-board)
 - [The Fossil Fuel Industry’s Dark Money Is Getting Even Darker](https://jacobinmag.com/2020/10/fossil-fuel-extraction-oil-gas-citizens-united/)
 - [Woke Retailers — This You?](https://www.citizen.org/article/woke-retailers-criminal-justice-reform-shoplifting-report/)
+- [How Corporate Lobbyists Conquered American Democracy](https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/)

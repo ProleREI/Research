@@ -8,3 +8,12 @@
 - [Felony Disenfranchisement](https://www.sentencingproject.org/issues/felony-disenfranchisement/)
 - [Felony disenfranchisement in the United States](https://en.wikipedia.org/wiki/Felony_disenfranchisement_in_the_United_States)
 - [Disenfranchisement Laws](https://www.brennancenter.org/issues/ensure-every-american-can-vote/voting-rights-restoration/disenfranchisement-laws)
+
+## Forensics
+- [Op-Ed: Bad forensic science is putting innocent people in prison](https://www.latimes.com/opinion/op-ed/la-oe-humes-forensic-evidence-20190113-story.html)
+- [Faulty Forensics](https://www.exonerationproject.org/resources/faulty-forensics/)
+- [FAULTY FORENSICS: EXPLAINED](https://theappeal.org/faulty-forensics-explained-fe4d41157452/)
+- [Forensics gone wrong: When DNA snares the innocent](https://www.sciencemag.org/news/2016/03/forensics-gone-wrong-when-dna-snares-innocent)
+- [Overturning Wrongful Convictions Involving Misapplied Forensics](https://innocenceproject.org/overturning-wrongful-convictions-involving-flawed-forensics/)
+- [Finding Fault with Forensics](https://www.npr.org/templates/story/story.php?storyId=4798054)
+- [Forensic Science: Problems and Solutions](https://innocenceproject.org/forensic-science-problems-and-solutions/)

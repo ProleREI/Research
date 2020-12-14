@@ -1,4 +1,6 @@
 # Business
+- [How Venture Capitalists Are Deforming Capitalism](https://www.newyorker.com/magazine/2020/11/30/how-venture-capitalists-are-deforming-capitalism)
+- [GAO Study Shows How Taxpayers Subsidize “Starvation Wages” of Corporate Giants](https://truthout.org/articles/gao-study-shows-how-taxpayers-subsidize-starvation-wages-of-corporate-giants/)
 - [Is It Time to Rethink Globalized Supply Chains?](https://sloanreview.mit.edu/article/is-it-time-to-rethink-globalized-supply-chains/)
 - [Lean Staffing: 3 Unfortunate Realities](https://circadian.com/blog/item/49-lean-staffing-3-unfortunate-realities.html)
 - [Why we should bulldoze the business school](https://www.theguardian.com/news/2018/apr/27/bulldoze-the-business-school)
