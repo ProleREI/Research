@@ -1,6 +1,6 @@
 # Media
 
-## Propopganda
+## Right-Wing "Media"
 - [From Joe Rogan to the Far Right: Inside YouTube's Alt-Media Ecosystem](https://www.vice.com/en/article/59ade5/inside-youtubes-alt-media-ecosystem)  
 - [Joe Rogan’s Galaxy Brain](https://slate.com/culture/2019/03/joe-rogans-podcast-is-an-essential-platform-for-freethinkers-who-hate-the-left.html)  
 - [James Murdoch, son of Fox News owner Rupert Murdoch, says he walked away from family media empire because it legitimizes disinformation and obscures facts](https://www.businessinsider.com/fox-news-james-murdoch-says-fathers-media-empire-obscures-facts-2020-10)  
