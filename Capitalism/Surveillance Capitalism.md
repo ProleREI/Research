@@ -9,6 +9,7 @@
 ## Surveillance Capitalism
 - [We're building a dystopia just to make people click on ads, Zeynep Tufekci](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/discussion?referrer=playlist-talks_to_watch_instead_of_shop)
 - [Why an insecure internet is actually in tech companies’ best interests](https://ideas.ted.com/why-an-insecure-internet-is-actually-in-tech-companies-best-interests/)
+- [Shoshana Zuboff: ‘Surveillance capitalism is an assault on human autonomy’](https://www.theguardian.com/books/2019/oct/04/shoshana-zuboff-surveillance-capitalism-assault-human-automomy-digital-privacy)
 - [It's not just Facebook. Thousands of companies are spying on you](https://www.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)
 - [Your Phone Is Listening—Literally Listening—to Your TV](https://www.theatlantic.com/technology/archive/2015/11/your-phone-is-literally-listening-to-your-tv/416712/)
 - [Amazon and Google are listening to your voice recordings. Here's what we know about that](https://www.cnet.com/how-to/amazon-and-google-are-listening-to-your-voice-recordings-heres-what-we-know/)
@@ -23,12 +24,27 @@
 - [Your smart TV might be spying on you, FBI warns](https://www.cbsnews.com/news/smart-tv-spying-fbi-says-the-device-may-be-spying-on-you-today-2019-12-03/)
 - [As smart TVs become the only option, your privacy choices fizzle out](https://www.cnet.com/news/as-smart-tvs-become-the-only-option-your-privacy-choices-fizzle-out/)
 
+### Big Data
+- [Big data to drive a surveillance society](https://www.computerworld.com/article/2507168/big-data-to-drive-a-surveillance-society.html)
+- [BIG DATA](https://www.aclu.org/issues/privacy-technology/surveillance-technologies/big-data)
+- [Big Data Surveillance Results in Bad Policy](https://www.schneier.com/blog/archives/2013/07/big_data_survei.html)
+
 ### Browser Fingerprinting
 - [Browser Fingerprinting (2020 Update) – What Is It & How to avoid It](https://blokt.com/guides/browser-fingerprinting)
 - [This is Your Digital Fingerprint](https://blog.mozilla.org/internetcitizen/2018/07/26/this-is-your-digital-fingerprint/)
 - [Digital Fingerprinting Based on Keystroke Dynamics](https://www.researchgate.net/publication/228541919_Digital_Fingerprinting_Based_on_Keystroke_Dynamics)  
 - [Browser Fingerprinting: What Is It and What Should You Do About It?](https://pixelprivacy.com/resources/browser-fingerprinting/)
 - [What Is Device Fingerprinting And How Does It Work?](https://clearcode.cc/blog/device-fingerprinting/)
+
+### Data Brokers
+- [What Are 'Data Brokers,' and Why Are They Scooping Up Information About You?](https://www.vice.com/en/article/bjpx3w/what-are-data-brokers-and-how-to-stop-my-private-data-collection)
+- [Data brokers track everywhere you go, but their days may be numbered](https://techcrunch.com/2020/07/09/data-brokers-tracking/)
+- [Firms Are Buying, Sharing Your Online Info. What Can You Do About It?](https://www.npr.org/sections/alltechconsidered/2016/07/11/485571291/firms-are-buying-sharing-your-online-info-what-can-you-do-about-it)
+- [Here’s a Long List of Data Broker Sites and How to Opt-Out of Them](https://www.vice.com/en/article/ne9b3z/how-to-get-off-data-broker-and-people-search-sites-pipl-spokeo)
+- [Everything We Know About What Data Brokers Know About You](https://www.propublica.org/article/everything-we-know-about-what-data-brokers-know-about-you)
+- [Here are the data brokers quietly buying and selling your personal information](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information)
+- [Data Brokers Are Cruising for a Bruising](https://www.wired.com/story/opinion-data-brokers-are-cruising-for-a-bruising/)
+- [The Data Brokers So Powerful Even Facebook Bought Their Data - But They Got Me Wildly Wrong](https://www.forbes.com/sites/kalevleetaru/2018/04/05/the-data-brokers-so-powerful-even-facebook-bought-their-data-but-they-got-me-wildly-wrong/)
 
 ## Workplace Surveillance
 - [Private spies reportedly infiltrated an Amazon strike, secretly taking photos of workers, trade unionists, and journalists. Now a union is taking legal action.](https://www.businessinsider.com/amazon-pinkerton-agency-spies-union-strike-spain-ccoo-legal-action-2020-12)
@@ -40,6 +56,7 @@
 - [Google illegally spied on workers before firing them, US labor board alleges](https://www.theverge.com/2020/12/2/22047383/google-spied-workers-before-firing-labor-complaint)
 
 # Companies
+
 ## Facebook
 - [Facebook Doesn’t Tell Users Everything It Really Knows About Them](https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them)
 - [Facebook can track your browsing even after you've logged out, judge says](https://www.theguardian.com/technology/2017/jul/03/facebook-track-browsing-history-california-lawsuit)
